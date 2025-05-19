@@ -12,6 +12,9 @@ Currently pursuing MSc Financial Engineering, I’m focused on mastering quantit
 - Python, R, SQL, and QuantLib
 
 ## 📂 Featured Projects
+- Heston_Model<br>
+*Honours project repository focuses on my project "Mean-Variance hedging with Neural Networks using Heston Model as an underlying sample path generator*
+
 - quant-lab<br>
 *A sandbox for statistical modeling, backtesting strategies, and financial data analysis.*<br>
 Topics: CAPM, Fama-French models, factor investing, and more.
